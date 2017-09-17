@@ -1,0 +1,11 @@
+
+.tetrisstyles {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 290px;
+}
+
+body {
+    background-color: aquamarine !important;
+}

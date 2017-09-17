@@ -1,0 +1,74 @@
+/*
+body:before {
+
+  background-image: url(images/patern.png);
+  
+  background-position: center center;
+
+  background-repeat: no-repeat;
+  
+  background-attachment: fixed;
+
+  background-size: cover;
+
+  background-color: #464646;
+} */
+
+
+
+
+
+body {
+    background-image: url(images/patern.png);
+    background-repeat: repeat;
+    background-color: aquamarine;
+}
+
+
+ h1, h3, p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+ /*   padding-top: 50px; */
+}
+
+hr {
+    width: 600px;
+    border-bottom: 1px solid black;
+}
+
+.quote-box {
+    border: 1px dashed black;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.test-class {
+    color: blue;
+}
+
+.quotes {
+    margin-top: 35px;
+    
+/*     testen 
+    margin-left: 5%;
+    margin-right: 5%;
+    */
+
+}
+
+#line {
+  margin: auto;
+/*
+    margin-left: 5%;
+    margin-right: 5%;
+*/
+    width: 60%;
+}
+
+h3 {
+    padding-top: 20px;
+}
